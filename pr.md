@@ -1,6 +1,7 @@
 # ТЗ на парсер сайтов
+**Цель:** разработать десктопный преобразователь сайтов в упрощённый вид в формат markdown в соответствии с нижеприведёнными ограничениями.
 
-Цель: разработать десктопный преобразователь сайтов в упрощённый вид в формат markdown в соответствии с нижеприведёнными ограничениями.
+**Задачи:**
 
 **1.** Преобразователь (далее — ПР) должен превращать страницу сайта в файл с разметкой markdown (текст с упрощённой разметкой и изображения). Пример и разъяснения см. п. 12.
 
@@ -43,6 +44,8 @@
 
 ```
 # Medium jack, or peanut?
+<https://www.bladeforums.com/threads/medium-jack-or-peanut.538158>
+
 [Forums](index.md) → [Knife Specific Discussion](669_knife_specific_d.md) → [Traditional Folders and Fixed Blades](773_traditional_fold.md)
 
 Discussion in 'Traditional Folders and Fixed Blades' started by jpvjr, Mar 3, 2008.
@@ -68,7 +71,7 @@ Mar 28, 2008 • #23 • **6.0stroker** • (archived 2020.04.01 13:13UTC)
 I just love all the PC crap ![](bladeforums_com/etc/barf.png) can't carry it!!! Where are we headed? ![](bladeforums_com/etc/confused.png) 2 3/8 peanut, and you can hurt "somthing" worse with a metal writing utinsil ie. Cross mechanical pen and pencil.:( rant off
 ```
 
----
+**И как это выглядит в рендере.**
 
 # Medium jack, or peanut?
 <https://www.bladeforums.com/threads/medium-jack-or-peanut.538158>
