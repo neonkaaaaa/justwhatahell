@@ -14,6 +14,7 @@
    - <https://bladeforums.com>
    - <https://guns.ru>
    - <https://harrypotter.fandom.com/>
+   - <https://livejournal.com>
    - <https://wikipedia.org>
 
 **5.** В итоговом файле markdown должна оставаться только суть — текст с базовой разметкой и изображения. Видео и прочие файлы — ссылками на оригинал.
