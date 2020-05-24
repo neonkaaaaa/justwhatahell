@@ -2,5 +2,89 @@
 .stfolder
 *.backup
 *.bak
+*.ori
+*.orig
+*.swp
 *.tmp
 *.vswp
+
+
+# COMMON
+# https://github.com/github/gitignore
+
+#   AutoCAD, SolidWorks
+*.ac$
+*.dwl
+*.dwl2
+*.sv$
+plot.log
+~$*
+
+#   MS Office, LibreOffice
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+.~lock.*#
+
+#   Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+#   MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+#   Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+#   Vim
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+#   Dropbox
+.dropbox
+.dropbox.attr
+.dropbox.cache
