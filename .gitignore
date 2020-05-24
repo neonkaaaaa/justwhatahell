@@ -1,0 +1,6 @@
+.stignore
+.stfolder
+*.backup
+*.bak
+*.tmp
+*.vswp
